@@ -1,5 +1,5 @@
 Backtesting==0.3.3
-bokeh==3.4.1
+bokeh==3.8.2
 certifi>=2023.7.22
 charset-normalizer==3.3.2
 contourpy==1.2.1
